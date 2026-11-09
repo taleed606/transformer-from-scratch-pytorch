@@ -1,0 +1,6 @@
+# Raw Multi30K dataset (clone it here to re-run preprocessing)
+/data/multi30k-dataset/
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
